@@ -81,4 +81,4 @@ In Progress:
 
 ## License
 
-**[TODO: ADD LICENSE]**
+This project's license has not yet been finalized.
